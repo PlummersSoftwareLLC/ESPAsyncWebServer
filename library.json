@@ -28,10 +28,6 @@
       "name": "AsyncTCP",
       "version": "^1.1.1",
       "platforms": "espressif32"
-    },
-    {
-      "name": "Hash",
-      "platforms": "espressif8266"
     }
   ]
 }
